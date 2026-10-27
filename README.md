@@ -70,6 +70,10 @@ Zaman biçimleri: `yarın 09:30`, `bugün 18:00`, `2026-11-01 08:00`, `+3g`, `+2
 - Mail gönderme, takvime yazma gibi geri alınamaz işler (sonraki aşamalar) her zaman önce onay ister.
 - Anahtar ve token dosyaları `.gitignore` içinde.
 
+## Lisans
+
+MIT, bkz. `LICENSE`.
+
 ## Yol haritası
 1. **Çekirdek** (bitti): not, hatırlatıcı, harcama, sağlık kaydı, hedefler, özetler, dosya düzeni.
 2. **Sohbet arayüzü**: doğal dille komut (Telegram botu ya da yerel web sayfası) + ücretsiz yapay zeka.
